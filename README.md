@@ -5,16 +5,21 @@ Hi there, I'm Santiago. A Computer Science student passionate about Cybersecurit
 I enjoy understanding systems from the inside out, from operating systems and low-level programming to defensive cybersecurity and explainable security tools.
 
 ## About me
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🎓 Computer Science student
 - 🎨 I enjoy art
 - 🎷 Jazz and Tango listener
 - 🛡️ Interested in Blue Team, Detection Engineering and Threat Intelligence
 - 🐧 Linux enthusiast
+- 🌱 I’m currently learning ...
+  - AI Agents
+  - Operating Systems
 - 💻 Most of my projects are built with Python and C
-- 📚 Passionate about understanding how systems work under the hood
 - ♟️ We can connect on [chess.com](https://www.chess.com/member/san2rron) to play some games
 - 📫 Reach out to me at: santynicosanchez@gmail.com
+
+
 
 ## Certifications
 
@@ -22,8 +27,8 @@ I enjoy understanding systems from the inside out, from operating systems and lo
   - Code in Place 2026 (CS106A: Programming Methodologies in Python)
   - 📜 Certificate: https://codeinplace.stanford.edu/cip6/certificate/blumc2
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+## My Skills Include
 ### Linux
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -60,7 +65,7 @@ I enjoy understanding systems from the inside out, from operating systems and lo
   </a>
 </p>
 
-### Principles
+## Principles
 
 • Privacy-first
 
@@ -70,9 +75,9 @@ I enjoy understanding systems from the inside out, from operating systems and lo
 
 • Keep it Simple
 
-### Current Project
+## Current Project
 
-#### [LogGuard Guaraní]("https://github.com/snsanchez/logguard-guarani#") 
+### [LogGuard Guaraní]("https://github.com/snsanchez/logguard-guarani#") 
 
 An offline-first defensive log analysis framework designed for SIU Guaraní and Apache logs.
 
@@ -87,13 +92,5 @@ Features:
 - Threat Intelligence
 - LLM-powered SOC analysis
 Designed for educational and defensive cybersecurity purposes.
-
-### Currently Learning
-
-- Detection Engineering
-- Secure Software Design
-- AI Agents
-- Low-level Programming
-- Operating Systems
 
 
