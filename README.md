@@ -7,7 +7,7 @@ I enjoy understanding systems from the inside out, from operating systems and lo
 ## About me
 
 - 🎓 Computer Science student
-- 🎨 I enjoy art, photography and good design
+- 🎨 I enjoy art
 - 🎷 Jazz and Tango listener
 - 🛡️ Interested in Blue Team, Detection Engineering and Threat Intelligence
 - 🐧 Linux enthusiast
