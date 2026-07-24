@@ -1,8 +1,7 @@
 ## Hello World 👋
 ![GitHub User's stars](https://img.shields.io/github/stars/snsanchez?style=social)
 
-Hi there, I'm Santiago. A Computer Science student passionate about Cybersecurity, Linux and Open Source software.
-I enjoy understanding systems from the inside out, from operating systems and low-level programming to defensive cybersecurity and explainable security tools.
+Hi, I'm Santiago, a Computer Science student passionate about cybersecurity, Linux, and open-source software. I enjoy understanding systems from the inside out—from operating systems and low-level programming to defensive cybersecurity and explainable security tools.
 
 ## About me
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
