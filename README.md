@@ -14,6 +14,7 @@ I enjoy understanding systems from the inside out, from operating systems and lo
 - 💻 Most of my projects are built with Python and C
 - 📚 Passionate about understanding how systems work under the hood
 - ♟️ We can connect on [chess.com](https://www.chess.com/member/san2rron) to play some games
+- 📫 Reach out to me at: santynicosanchez@gmail.com
 
 ## Certifications
 
